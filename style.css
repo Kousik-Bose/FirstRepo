@@ -1,0 +1,100 @@
+
+
+body {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+
+font-size: large;
+ background-color: coral;
+
+
+}
+
+
+
+h1{
+background-color:aquamarine;
+padding: 2% 6%;
+
+border-radius: 100px
+
+
+
+
+
+
+
+
+
+
+
+}
+
+h2{
+
+background-color: yellow;
+padding: 2% 6%;
+border-style: groove;
+border-width: 5px;
+border-radius: 100px;
+
+
+
+}
+
+h3{
+
+    
+
+    border-style: groove;
+
+
+    padding: 2% 6%;
+
+    border-style: solid;
+    background-color: wheat;
+
+    border-width: 10px;
+
+
+    border-radius: 408px;
+
+    
+
+
+
+    
+
+
+    
+}
+
+
+img {
+
+    width: 90%;
+
+  
+    max-width: 700px ;
+
+    
+}
+
+
+h4{
+
+    border-style: groove;
+
+
+    padding: 2% 6%;
+
+    border-style: solid;
+    background-color: wheat;
+
+    border-width: 10px;
+
+
+    border-radius: 408px;
+
+
+}
